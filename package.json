@@ -1,0 +1,21 @@
+{
+  "name": "react-transition-using-webpack",
+  "version": "0.0.0",
+  "description": "Example of how to use React Transition using Webpack",
+  "main": "index.js",
+  "devDependencies": {
+    "babel": "latest",
+    "babel-core": "latest",
+    "babel-loader": "latest",
+    "babel-preset-es2015": "latest",
+    "babel-preset-react": "latest",
+    "css-loader": "latest",
+    "file-loader": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "resolve-url": "latest",
+    "style-loader": "latest",
+    "url-loader": "latest",
+    "webpack": "latest"
+  }
+}
