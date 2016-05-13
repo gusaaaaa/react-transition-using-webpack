@@ -6,4 +6,5 @@ Implementation of (React's How to Use ReactTransitionGroup Guide)[https://facebo
 
 * Clone the app
 * Run: `npm install && webpack`
+* Depending on the webserver you've chosen, `cd dist`
 * Start a server (e.g. `python -m SimpleHTTPServer`)
